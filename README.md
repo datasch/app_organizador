@@ -20,3 +20,21 @@ El Clasificador de Archivos es una herramienta sencilla para organizar automáti
 2. Asegúrate de tener Python 3.x instalado en tu sistema.
 3. Instala las dependencias necesarias ejecutando el siguiente comando en tu terminal:
 
+pip install -r requirements.txt
+
+
+## Uso
+
+1. Ejecuta el archivo `app.py` desde tu entorno de desarrollo o desde la terminal.
+2. Se abrirá una interfaz de usuario donde podrás ingresar tu nombre y la ruta de la carpeta que deseas organizar.
+3. Haz clic en el botón "Clasificar" para iniciar el proceso de clasificación.
+4. Los archivos se moverán automáticamente a las carpetas correspondientes según su tipo.
+5. Una vez finalizada la clasificación, se mostrará la hora de ejecución y se guardará un registro en el archivo `clasificador_log.txt`.
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas mejorar el Clasificador de Archivos, puedes realizar una bifurcación (fork) de este repositorio, hacer tus cambios y enviar una solicitud de extracción (pull request).
+
+## Licencia
+
+Este proyecto está bajo la [licencia MIT](LICENSE).
