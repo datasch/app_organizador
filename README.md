@@ -35,6 +35,3 @@ pip install -r requirements.txt
 
 Las contribuciones son bienvenidas. Si deseas mejorar el Clasificador de Archivos, puedes realizar una bifurcación (fork) de este repositorio, hacer tus cambios y enviar una solicitud de extracción (pull request).
 
-## Licencia
-
-Este proyecto está bajo la [licencia MIT](LICENSE).
