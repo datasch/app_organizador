@@ -31,7 +31,14 @@ pip install -r requirements.txt
 4. Los archivos se moverán automáticamente a las carpetas correspondientes según su tipo.
 5. Una vez finalizada la clasificación, se mostrará la hora de ejecución y se guardará un registro en el archivo `clasificador_log.txt`.
 
+## Ejecutable para Windows
+
+Si no deseas instalar Python y las dependencias, también puedes utilizar el archivo ejecutable `app.exe` que se encuentra en la carpeta `dist`. Simplemente ejecuta el archivo `app.exe` y sigue las instrucciones en la interfaz de usuario.
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar el Clasificador de Archivos, puedes realizar una bifurcación (fork) de este repositorio, hacer tus cambios y enviar una solicitud de extracción (pull request).
 
+## Licencia
+
+Este proyecto está bajo la [licencia Apache 2.0](LICENSE).
